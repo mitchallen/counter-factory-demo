@@ -1,4 +1,4 @@
-@mitchallen/counter-factory-demo
+counter-factory-demo
 ==
 Demos issues to consider when creating a NodeJS factory.
 --
