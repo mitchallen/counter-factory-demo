@@ -5,7 +5,9 @@ Demos issues to consider when creating a NodeJS factory.
 
 ## Usage
 
-This repo is part of an article that will be published soon.
+For usage details see the article __NodeJS Module Factories__: 
+
+* [http://scriptable.com/nodejs-module-factories/](http://scriptable.com/nodejs-module-factories/)
 
 
 ## Files:
